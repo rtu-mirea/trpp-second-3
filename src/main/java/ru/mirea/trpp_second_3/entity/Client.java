@@ -1,13 +1,10 @@
-package ru.mirea.entity;
+package ru.mirea.trpp_second_3.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.opencsv.bean.CsvBindByName;
-import io.micronaut.core.annotation.Introspected;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
-
-import java.time.OffsetDateTime;
 
 /** Сущность Клиента. */
 @Getter

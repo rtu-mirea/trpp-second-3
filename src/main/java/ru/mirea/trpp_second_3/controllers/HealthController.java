@@ -1,4 +1,4 @@
-package ru.mirea.controllers;
+package ru.mirea.trpp_second_3.controllers;
 
 import io.micronaut.http.HttpResponse;
 import io.micronaut.http.annotation.Controller;
